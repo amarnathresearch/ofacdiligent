@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "error": null,
+  "data": {
+    "symbol": "AAPL",
+    "count": 10,
+    "news": [
+      {
+        "title": "Every Apple (AAPL) Investor Should Keep an Eye on This Number",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/586f9907-cca4-3f31-8a95-3084f3a94280/every-apple-%28aapl%29-investor.html",
+        "publishedAt": "+057750-09-03T05:20:00.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/xXMJlYa8gqZs5cBiAJ4Xkg--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/d93b36aae0850dfcfc90b27d12139c24",
+        "relatedTickers": [
+          "AAPL"
+        ]
+      },
+      {
+        "title": "Ex-Uber Exec and Bar Owner Spot Liquid Gold in Rare Spirits, Create $150 Million Marketplace Where High-End Bottles are Bought and Sold",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/ex-uber-exec-bar-owner-180107168.html",
+        "publishedAt": "+057751-06-08T18:36:40.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/E1uWZ5S31fqvK0VTCydR4A--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/45b2a4ffdb4a1001a4e20d19c4240a2f",
+        "relatedTickers": []
+      },
+      {
+        "title": "'100% of Addicts Eventually Have Financial Troubles' — Ramsey Tells 25-Year-Old Who Lost $55K Gambling To Do These Three Things",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/100-addicts-eventually-financial-troubles-170119742.html",
+        "publishedAt": "+057751-04-28T05:56:40.000Z",
+        "type": "STORY",
+        "thumbnail": null,
+        "relatedTickers": [
+          "AMZN",
+          "NVDA"
+        ]
+      },
+      {
+        "title": "Where Will Apple (AAPL) Be in 5 Years?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/ffeae88c-3d0c-347a-9f50-a51fd6ffbc24/where-will-apple-%28aapl%29-be-in.html",
+        "publishedAt": "+057750-06-06T08:00:00.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/JfjOZS8S_uF34iEqzGhJ8g--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/motleyfool.com/4ae9bcd55ded73c350be7021fb28c1fd",
+        "relatedTickers": [
+          "AAPL",
+          "^SPX"
+        ]
+      },
+      {
+        "title": "Dave Ramsey Caller Says Her Partner Wants To Marry After 25 Years And 4 Kids, But Only If She Signs A Prenup For His 300-Person Company",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/news/dave-ramsey-caller-says-her-153125272.html",
+        "publishedAt": "+057751-02-24T19:36:40.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/USz3sIm3AxNVkRilv34GCg--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/85cb57bcdb0ca40ab880a5932a1512ff",
+        "relatedTickers": []
+      },
+      {
+        "title": "Trump's Approval Rating Down Amid Government Shutdown and National Guard Action",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/m/f58614f8-b8d7-374a-b70e-2a3ba9869d44/trump%27s-approval-rating-down.html",
+        "publishedAt": "+057751-02-14T08:30:00.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/_eD5ZhOueUHG_bsptIEl1Q--~B/aD01NTk7dz05OTQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8e175c3ad339d8275d81fa0e76b74c3f",
+        "relatedTickers": []
+      },
+      {
+        "title": "A Once-in-a-Decade Investment Opportunity: 1 Little-Known Vanguard Index Fund to Buy for the Artificial Intelligence (AI) Boom",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/6785ad50-29ac-3df5-8c6f-e03b5cd479fa/a-once-in-a-decade-investment.html",
+        "publishedAt": "+057751-02-07T20:40:00.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/DZUQZHUszBOLMfV119fULQ--~B/aD04OTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d159a8de671b1823d18bc9eabc86dc8a",
+        "relatedTickers": []
+      },
+      {
+        "title": "'Middle Class Is Priced Out Of Existing,' Say Parents Paying More Than Their Mortgage For 1 Kid's Daycare — 'Genuinely Don't Know How People Do It'",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/m/b84f4982-b8f9-37d2-971d-af37fb442adc/%27middle-class-is-priced-out.html",
+        "publishedAt": "+057751-02-04T22:40:00.000Z",
+        "type": "STORY",
+        "thumbnail": null,
+        "relatedTickers": []
+      },
+      {
+        "title": "AMD Amps Up Chip War",
+        "publisher": "The Wall Street Journal",
+        "link": "https://finance.yahoo.com/m/c43cf3ea-7c94-3507-aec3-3958b4f2b086/amd-amps-up-chip-war.html",
+        "publishedAt": "+057751-01-22T21:20:00.000Z",
+        "type": "STORY",
+        "thumbnail": "https://s.yimg.com/uu/api/res/1.2/IfOAuDkk.ffRC6y1eCjEAQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/0e2191d0b473c5627fee2a44199e64ec",
+        "relatedTickers": [
+          "AMD"
+        ]
+      },
+      {
+        "title": "Elon Musk's Mom Says His 2 Siblings Are 'Brilliant' But He's On Another Level Of Smart —'Elon's A Genius...I Can't Explain Elon.'",
+        "publisher": "Benzinga",
+        "link": "https://finance.yahoo.com/m/769576cc-f288-33e0-b2c5-1c45e283d262/elon-musk%27s-mom-says-his-2.html",
+        "publishedAt": "+057751-01-20T10:43:20.000Z",
+        "type": "STORY",
+        "thumbnail": null,
+        "relatedTickers": []
+      }
+    ]
+  },
+  "timestamp": "2025-10-12T18:35:33.446Z"
+}
