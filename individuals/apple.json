@@ -1,0 +1,201 @@
+[
+  {
+    "company_id": "apple_inc",
+    "sec_data": {
+      "annual_revenue": "$124.3 billion (Q1 2025)",
+      "business_description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories. The company also provides various services including Apple Music, Apple TV+, Apple Arcade, Apple News+, iCloud, Apple Pay, and AppleCare. Its products and services are sold worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers.",
+      "company_identifiers": {
+        "CUSIP": "Not specified in SEC documents",
+        "LEI": "HWUPKR0MPOU8FGXBT394",
+        "CIK": "0000320193",
+        "registration_number": "SEC registration number or CIK: 0000320193",
+        "DUNS": "268009695"
+      },
+      "registered_business_address": "One Apple Park Way, Cupertino, California 95014",
+      "incorporation_date": "January 03, 1977",
+      "number_of_employees": "164,000 (as of September 2024)",
+      "company_name": "Apple Inc",
+      "annual_sales": "$124.3 billion (Q1 2025)",
+      "country_of_incorporation": "United States",
+      "registered_legal_name": "Apple Inc.",
+      "website_url": "https://www.apple.com",
+      "extraction_source": "nova_sec_extractor"
+    },
+    "executives": [
+      {
+        "previous_roles": [
+          "COO of Apple Inc.",
+          "Executive at IBM"
+        ],
+        "contact_info": {
+          "email": "tim_cook@apple.com",
+          "linkedin": "https://www.linkedin.com/in/tim-cook-7b03125/"
+        },
+        "name": "Tim Cook",
+        "background": "Previously served as Apple's COO, IBM executive.",
+        "education": "Auburn University (B.S. Industrial Engineering), Duke University (MBA)",
+        "tenure": "Since August 2011",
+        "description": "Tim Cook is the CEO of Apple Inc., known for his leadership in expanding Apple's product line and increasing its market value.",
+        "role_category": "CEO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "CEO"
+      },
+      {
+        "previous_roles": [
+          "COO of Apple Inc.",
+          "Various roles at IBM"
+        ],
+        "contact_info": {
+          "email": "tim_cook@apple.com",
+          "linkedin": "https://www.linkedin.com/in/tim-cook-9734315/"
+        },
+        "name": "Tim Cook",
+        "background": "Previously served as Apple's COO under Steve Jobs. Held various roles at IBM.",
+        "education": "Auburn University (B.S. Industrial Engineering), Duke University (MBA)",
+        "tenure": "Since August 2011",
+        "description": "Tim Cook is the current CEO of Apple Inc., known for his leadership in expanding Apple's product line and increasing the company's market value.",
+        "role_category": "CEO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "CEO"
+      },
+      {
+        "previous_roles": [
+          "SVP of Operations at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "jeff_williams@apple.com",
+          "linkedin": "https://www.linkedin.com/in/jeff-williams-0736251/"
+        },
+        "name": "Jeff Williams",
+        "background": "Previously served as Apple's SVP of Operations.",
+        "education": "Duke University (B.S. Electrical Engineering), University of North Carolina at Chapel Hill (MBA)",
+        "tenure": "Since March 2016",
+        "description": "Jeff Williams is the COO of Apple Inc., overseeing operations worldwide.",
+        "role_category": "COO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "COO"
+      },
+      {
+        "previous_roles": [
+          "Senior Vice President of Operations at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "jeff_williams@apple.com",
+          "linkedin": "https://www.linkedin.com/in/jeff-williams-0362655/"
+        },
+        "name": "Jeff Williams",
+        "background": "Previously served as Apple's Senior Vice President of Operations.",
+        "education": "Duke University (B.S. Mechanical Engineering), University of North Carolina at Chapel Hill (MBA)",
+        "tenure": "Since March 2016",
+        "description": "Jeff Williams is the Chief Operating Officer of Apple Inc., overseeing operations worldwide.",
+        "role_category": "COO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "COO"
+      },
+      {
+        "previous_roles": [
+          "VP of Finance at Apple Inc.",
+          "Finance roles at Broadcom and Motorola"
+        ],
+        "contact_info": {
+          "email": "luca_maestri@apple.com",
+          "linkedin": "https://www.linkedin.com/in/luca-maestri-5080671/"
+        },
+        "name": "Luca Maestri",
+        "background": "Previously served as Apple's VP of Finance.",
+        "education": "University of Bologna (B.S. Business Administration), INSEAD (MBA)",
+        "tenure": "Since May 2014",
+        "description": "Luca Maestri is the CFO of Apple Inc., managing the company's financial strategy.",
+        "role_category": "CFO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "CFO"
+      },
+      {
+        "previous_roles": [
+          "VP of Finance at Apple Inc.",
+          "Various finance roles at Broadcom"
+        ],
+        "contact_info": {
+          "email": "luca_maestri@apple.com",
+          "linkedin": "https://www.linkedin.com/in/luca-maestri-4779035/"
+        },
+        "name": "Luca Maestri",
+        "background": "Previously served as Apple's VP of Finance. Held various finance roles at Broadcom.",
+        "education": "University of Bologna (B.S. Business Administration), University of Southern California (MBA)",
+        "tenure": "Since May 2014",
+        "description": "Luca Maestri is the Chief Financial Officer of Apple Inc., managing the company's financial strategy.",
+        "role_category": "CFO",
+        "extraction_source": "cxo_website_extractor",
+        "title": "CFO"
+      },
+      {
+        "previous_roles": [
+          "VP of Hardware Engineering at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "johny_srouji@apple.com",
+          "linkedin": "https://www.linkedin.com/in/johny-srouji-5b33671/"
+        },
+        "name": "Johny Srouji",
+        "background": "Previously served as Apple's VP of Hardware Engineering.",
+        "education": "University of California, Berkeley (B.S. Electrical Engineering and Computer Sciences), Stanford University (M.S. Electrical Engineering)",
+        "tenure": "Since 2012",
+        "description": "Johny Srouji leads Apple's hardware technologies, driving innovation in chip design and architecture.",
+        "role_category": "Executive",
+        "extraction_source": "cxo_website_extractor",
+        "title": "SVP of Hardware Technologies"
+      },
+      {
+        "previous_roles": [
+          "VP of Hardware Engineering at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "johny_srouji@apple.com",
+          "linkedin": "https://www.linkedin.com/in/johny-srouji-3437665/"
+        },
+        "name": "Johny Srouji",
+        "background": "Previously served as Apple's VP of Hardware Engineering.",
+        "education": "University of California, Los Angeles (B.S. Electrical Engineering), Stanford University (M.S. Electrical Engineering)",
+        "tenure": "Since 2012",
+        "description": "Johny Srouji is the Senior Vice President of Hardware Technologies at Apple Inc., leading the development of Apple's hardware.",
+        "role_category": "Executive",
+        "extraction_source": "cxo_website_extractor",
+        "title": "SVP of Hardware Technologies"
+      },
+      {
+        "previous_roles": [
+          "VP of Mac Software Engineering at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "craig_federighi@apple.com",
+          "linkedin": "https://www.linkedin.com/in/craig-federighi-0870221/"
+        },
+        "name": "Craig Federighi",
+        "background": "Previously served as Apple's VP of Mac Software Engineering.",
+        "education": "University of California, Berkeley (B.S. Electrical Engineering and Computer Sciences), University of California, Berkeley (M.S. Electrical Engineering and Computer Sciences)",
+        "tenure": "Since 2012",
+        "description": "Craig Federighi oversees Apple's software engineering, including macOS, iOS, and watchOS.",
+        "role_category": "Executive",
+        "extraction_source": "cxo_website_extractor",
+        "title": "SVP of Software Engineering"
+      },
+      {
+        "previous_roles": [
+          "VP of Mac Software Engineering at Apple Inc."
+        ],
+        "contact_info": {
+          "email": "craig_federighi@apple.com",
+          "linkedin": "https://www.linkedin.com/in/craig-federighi-7334775/"
+        },
+        "name": "Craig Federighi",
+        "background": "Previously served as Apple's VP of Mac Software Engineering.",
+        "education": "University of California, Berkeley (B.S. Electrical Engineering and Computer Sciences), University of California, Berkeley (M.S. Electrical Engineering and Computer Sciences)",
+        "tenure": "Since 2012",
+        "description": "Craig Federighi is the Senior Vice President of Software Engineering at Apple Inc., overseeing the development of Apple's software.",
+        "role_category": "Executive",
+        "extraction_source": "cxo_website_extractor",
+        "title": "SVP of Software Engineering"
+      }
+    ]
+  }
+]

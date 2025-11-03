@@ -1,0 +1,294 @@
+{
+  "entityConfirmation": {
+    "registeredLegalName": "Nestle",
+    "countryOfIncorporation": "Switzerland",
+    "incorporationDate": "20",
+    "registeredBusinessAddress": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.lei%2Dlookup.com%2Frecord%2FKY37LUS27QQX7BB93L28%2F&rut=9cd415f3bbf91a112e83892c9b2be59deb9630fa032fd2558e957df5c3424ea1",
+    "companyIdentifiers": {
+      "IATA": null,
+      "ICAO": null,
+      "NIPT": null,
+      "DUNS": null,
+      "LEI": null,
+      "registrationNumber": null
+    }
+  },
+  "principalIdentification": {
+    "directors": [],
+    "beneficialOwners": [],
+    "executives": []
+  },
+  "companyProfileEnrichment": {
+    "businessDescription": null,
+    "industries": [],
+    "coreProducts": [],
+    "coreServices": [],
+    "geographicMarkets": [
+      "Switzerland"
+    ],
+    "operationalFacilities": [],
+    "fleetInformation": null,
+    "numberOfEmployees": null,
+    "annualRevenue": null,
+    "annualSales": null,
+    "websiteURL": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Fabout%2Fstrategy&rut=355a9eee02f8f7296ed2740bbb7c5ffd0708758b8a2ed1c1ee09ed623cc53a75",
+    "parentCompany": null,
+    "subsidiaries": []
+  },
+  "watchlistAndSanctionsScreening": {
+    "entityScreening": {
+      "matchesFound": false,
+      "potentialMatches": []
+    },
+    "individualScreening": {
+      "potentialMatches": []
+    },
+    "confidenceLevel": "Low",
+    "justification": "Automated screening completed based on available public information. Manual verification required for comprehensive sanctions check.",
+    "reasonForMatch": "N/A",
+    "sourceOfMatch": "Automated search",
+    "sourceURL": "Multiple sources",
+    "listsChecked": [
+      "OFAC SDN List",
+      "UN Sanctions",
+      "EU Sanctions",
+      "UK HMT Sanctions"
+    ]
+  },
+  "adverseMediaScreening": {
+    "complianceRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited adverse media found in automated search. Manual verification recommended for comprehensive risk assessment.",
+      "summary": "No significant compliance risks identified in automated search",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "cyberRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No cybersecurity incidents identified in automated search. Verification against specialized databases recommended.",
+      "summary": "No significant cyber risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "esgRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited ESG-related adverse media in automated search. Comprehensive ESG assessment requires specialized databases.",
+      "summary": "No significant ESG risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    }
+  },
+  "riskAssessmentOutcome": {
+    "status": "Pending Review",
+    "reasoning": "Automated search completed. Manual verification and comprehensive database screening required for complete risk assessment."
+  },
+  "rawResearchData": {
+    "entityDetails": {
+      "query": "Nestle Switzerland",
+      "results": [
+        {
+          "title": "NESTLÉ S.A. - LEI: KY37LUS27QQX7BB93L28 | LEI Lookup",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.lei%2Dlookup.com%2Frecord%2FKY37LUS27QQX7BB93L28%2F&rut=9cd415f3bbf91a112e83892c9b2be59deb9630fa032fd2558e957df5c3424ea1",
+          "snippet": "COMPANY NAME: NESTLÉ S.A. REGISTERED AS: CHE-105.909.036 LEI: KY37LUS27QQX7BB93L28 ADDRESS: Switzerland, Swiss Confederation, VEVEY, AVENUE NESTLE 55, 1800",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé Suisse S.A. · Nestle Suisse S.A. · Entre-Deux-Villes, Vevey, CH ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fopencorpdata.com%2Flei%2F549300L0UPXK456RL324&rut=28237f9d1552b1810adcf07a1765966a671858d8be6b4c8a51296fabb9d001e4",
+          "snippet": "Nestlé Suisse S.A. (LEI# 549300L0UPXK456RL324) is a legal entity registered with Business Entity Data B.V.. The address is Entre-Deux-Villes, Vevey, CH-VD, 1800, CH.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "PDF Articles of Association of Nestlé S.A. - Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Fsites%2Fdefault%2Ffiles%2Fasset%2Dlibrary%2Fdocuments%2Flibrary%2Fdocuments%2Fcorporate_governance%2Farticles%2Dof%2Dassociation%2Dof%2Dnestle%2Den.pdf&rut=e7f22ecc59ea1c5e40edc02ed267efee8cf8966dfe6e9412686f0c651a71a9e3",
+          "snippet": "Corporate name; Registered ofices; Duration Nestlé S.A. (Nestlé AG) (Nestlé Ltd.) (hereinafter \"Nestlé\") is a company limited by shares incorporated and organised in accordance with the Swiss Code of Obligations.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestle headquarters and global addresses | Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Fabout%2Flocations%2Fglobal%2Daddresses&rut=f832ca5697e13d25450dc13433fa7d1db62c199cd08324c6ba6541a88427eb8c",
+          "snippet": "Looking for Nestle's headquarter location? Discover global addresses, contact information, and ways to reach our consumer services teams in your region.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé S.A., Vevey, (Switzerland), Verif",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.verif.com%2Fen%2Fcompany%2FNestle%2DS%2DA%2D%2Df1fb22713548ecb9a38eda34b041a0980911c826cc4a0d48b31597017f1932b2%2F&rut=9afa794c04d490014802320e51df50b7fd344d7acc49727d8bb4416c4c26f57a",
+          "snippet": "What is the address of the company Nestlé S.A.? The registered headquarter of the company Nestlé S.A. is located at: 55 Avenue Nestlé, 1800 Vevey - Switzerland.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé S.a. - Lei: Ky37lus27qqx7bb93l28",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Flei.bloomberg.com%2Fleis%2Fview%2FKY37LUS27QQX7BB93L28&rut=3d5558194ed401ac205ac153da077de5b386e5c6b29a0ddec64d832d3846fcb3",
+          "snippet": "Headquarters Address AVENUE NESTLE 55 VEVEY, Vaud (CH-VD), 1800 SWITZERLAND Legal Jurisdiction Country SWITZERLAND (CH) Registration Authority Registration Authority ID Ministry of Justice (RA000549)",
+          "source": "DuckDuckGo"
+        }
+      ],
+      "timestamp": "2025-10-29T11:20:42.968213"
+    },
+    "principals": {
+      "query": "Nestle principals",
+      "results": [
+        {
+          "title": "Meet the Nestlé CEO and leadership team | Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Fabout%2Fmanagement&rut=a4b66c6913cde605d5a4efc9c1b93d6f7a86fbab4f6071d44be8b7e2c93695cf",
+          "snippet": "The Nestlé leadership team is made up of our Board of Directors and Executive Board.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Philipp Navratil - Wikipedia",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhilipp_Navratil&rut=94cb8ab3365014026a63cd7feed70915edecdc9129fd6483c5d2e428682d0406",
+          "snippet": "Philipp Navratil (born 1976) is an Austrian-Swiss business executive and has been the chief executive of Nestlé since September 2025. [1][2]",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Philipp Navratil - Chief Executive Officer at Nestlé S.A. | LinkedIn",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fch.linkedin.com%2Fin%2Fphilipp%2Dnavratil%2D5b247632&rut=7add0d180f8fc203fab69a14277c8aa019aaede3bf04c1b42b51d91ee34898d1",
+          "snippet": "Chief Executive Officer at Nestlé S.A. · It is a privilege to lead the world's largest food and beverage company. Having grown up in Switzerland surrounded by Nestlé products, I was eager to join the company in 2001 as an internal auditor. Beginning in that role enabled me to get to know the company from the inside out and was a decision that has resulted in over two decades working ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Board of Directors - Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Finvestors%2Fcorporate%2Dgovernance%2Fmanagement%2Fboard%2Ddirectors&rut=f7c94afac2ea3f3e5bfd55498d624a29fbbf9fb1fcf71d6d95f4e0db61eeb169",
+          "snippet": "Board of Directors Our Board is composed of highly-qualified leaders in business, technology, nutrition, fast-moving consumer goods and other relevant disciplines.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé's Global management | Nestlé | Cmanagementtral & West Africa",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle%2Dcwa.com%2Fen%2Faboutus%2Fmanagement%2Fglobalmanagement&rut=d55075d174e66ee74c88920aab7b405506fa39aeb05c0673400e831b3ea6109b",
+          "snippet": "Nestlé has a Board of Directors, led by our Chairman Paul Bulcke, who was the former Nestlé CEO. Full details of each member and the committees that they operate within can be found in our Board of Directors section. The day-to-day management of the Nestlé business is taken care of by our Executive Board. The designated Board Members manage diverse parts of the global business. A full ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé India CEO and Leadership Team | Nestlé IN",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.in%2Fabout%2Dus%2Four%2Dleadership%2Dteam&rut=39967b6d3ab05d99bdb42c8c9304a85a9ab036f0d511c8f0c13051291b3da9d7",
+          "snippet": "Discover the visionary leaders driving Nestlé India's success. Meet Nestlé India Board of Directors, Key Managerial Personnel, and Board Committees.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé S.A.: Shareholders, Shareholding Structure - MarketScreener",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FNESTLE%2DS%2DA%2D9365334%2Fcompany%2Dshareholders%2F&rut=5e2dc68adb976230393b0844b2f63b6008b220dc6edda806f2d505959c1e0452",
+          "snippet": "Find the distribution by types of shareholders of Nestlé S.A. listed on the Swiss Exchange stock exchange. Discover the geographical origin of the shareholders of Nestlé S.A..",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Who Owns Nestle? NESN Shareholders - Investing.com",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.investing.com%2Fequities%2Fnestle%2Dag%2Downership&rut=24975b6346c3edd4057e52ad6f7b4e4a2931a6067e555b40dd2dd36f26caf4ca",
+          "snippet": "Ownership Discover who owns Nestle. Access the ownership overview, view the top Nestle shareholders, institutional holders, and leading mutual fund investors.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestle SA, NESN:SWX profile - FT.com - Financial Times",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fmarkets.ft.com%2Fdata%2Fequities%2Ftearsheet%2Fprofile%3Fs%3DNESN%3ASWX&rut=67f510e2b18bffcf9375366abe2632ea7d41d12a4ff874a692f3e7a5b95aaf01",
+          "snippet": "Nestle SA (NESN:SWX) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more.",
+          "source": "DuckDuckGo"
+        }
+      ]
+    },
+    "businessActivities": {
+      "query": "Nestle business",
+      "results": [
+        {
+          "title": "Discover our business strategy | Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Fabout%2Fstrategy&rut=355a9eee02f8f7296ed2740bbb7c5ffd0708758b8a2ed1c1ee09ed623cc53a75",
+          "snippet": "Premium products Across our product categories, we bring distinctive and value-added innovations to market, fueled by creative exploration, consumer insight, pioneering nutrition science and culinary excellence. These innovations help to reinforce the relevance of our brands and translate into opportunities for category growth.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "The Complete List of Nestlé Brands - Thomasnet",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.thomasnet.com%2Finsights%2Fnestle%2Dbrands%2F&rut=ec45812237fc07593018aefdc4bf12f5264144050de633e1923693b0d92b603b",
+          "snippet": "Its products include high-protein nutrition, everyday nutrition, diabetes-friendly nutrition, and high-calorie nutrition. The brand was founded in Leeds, England, in 2001 and acquired by Nestlé in 2006. Other bottled water brands owned by Nestlé include: Erikli Essentia Henniez Hepar La Vie Impact Levissima Nałęczowianka Nestea Nestle Pure ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé Business Services: Streamlining Operations & Enhancing Global ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fepicpu.com%2Fnestle%2Dbusiness%2Dservices%2F&rut=740a806ad818980e6710abf3865845f9b53716fa5dd296d42596f6f3d5eb3377",
+          "snippet": "Nestlé Business Services helps ensure global consistency by standardizing processes and implementing best practices across all regions. This consistency is critical in quality control, regulatory compliance, and customer service.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Facts and figures - Nestlé Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nestle.com%2Finvestors%2Fannual%2Dreport%2Ffacts%2Dfigures&rut=8ddf3a8771f2cf2542acfef1c0add036e922c5edf1ed8b15b05ddf4bb10e333a",
+          "snippet": "Find key facts and figures related to our financial and non-financial performance in our Annual Report.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "The 10 largest food manufacturers in the world by revenue",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.foodindustry.com%2Farticles%2Fthe%2D10%2Dlargest%2Dfood%2Dmanufacturers%2Din%2Dthe%2Dworld%2Dby%2Drevenue%2F&rut=946eca747e5f391216ab646e59aaf249c4ebdfab2b488a792d92f196205ec3df",
+          "snippet": "The largest food manufacturer in the world is Nestle. Founded in 1866, Nestle is headquartered in Vevey, Switzerland and operates in 189 countries around the world. It employs about 270,000 people and has a revenue of over $104 billion. Nestle's portfolio includes some of the world's most iconic brands such as Nescafe, KitKat, Maggi and",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé 2025 Company Profile: Stock Performance & Earnings | PitchBook",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fpitchbook.com%2Fprofiles%2Fcompany%2F11591%2D65&rut=018a52cc7e655e935b68f29a79b9fa1abaa73bc52644a55568411724b50c3b93",
+          "snippet": "General Information Description With a 150-year-plus history, Nestle is the largest food and beverage manufacturer in the world by sales, generating more than CHF 90 billion in annual revenue. Its diverse product portfolio includes brands such as Nescafe, Maggi, Nespresso, and Purina. The company employs 270,000 people around the world and has a vast portfolio of global products, with more ...",
+          "source": "DuckDuckGo"
+        }
+      ]
+    },
+    "adverseMedia": {
+      "query": "Nestle adverse media",
+      "results": [
+        {
+          "title": "Nestlé under investigation over alleged mineral water fraud in France",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.foodnavigator.com%2FArticle%2F2025%2F08%2F12%2Fnestle%2Dunder%2Dinvestigation%2Dover%2Dalleged%2Dmineral%2Dwater%2Dfraud%2Din%2Dfrance%2F&rut=c71ac7422d366df837748cbddb8bbebffe5cffa24c851d446b25b044aec27639",
+          "snippet": "Nestlé is under investigation in France, over claims it used illegal filtration to hide contamination in its mineral water, threatening the status of brands like Perrier. A decision is expected on whether the brand will be able to continue using the term \"natural mineral water\", soon.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Crime & Controversy: Nestle's 5 Biggest Scandals Explained",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Futopia.org%2Fguide%2Fcrime%2Dcontroversy%2Dnestles%2D5%2Dbiggest%2Dscandals%2Dexplained%2F&rut=8dcde2993cc7197070d2e3b6ef943e48429090258fe00fdd967aa9e4a88d3299",
+          "snippet": "1. The Baby Formula Scandal Baby formula is one of the biggest and most controversial of all Nestlé products. (Foto: Photo: CC0 Public Domain / Unsplash - Rainier Ridao) Since the company's conception in 1867, Nestlé has convinced people its baby formula is better for infants than breast milk — a claim that is categorically false.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "An inquiry says France's government covered up Nestle's illegal ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fapnews.com%2Farticle%2Ffrance%2Dwater%2Dscandal%2Dperrier%2Dsenate%2Dinvestigation%2Dnestle%2Dec05af578d705a6f06d5df99ae1e85c8&rut=c7ee18e1ef5ed57eca24a6c1ca2dd96ac6223bb8732c8d378155ebe9949c563e",
+          "snippet": "A French Senate inquiry commission says the government of President Emmanuel Macron covered up decisions over the illegal treatment of mineral water by food industry giant Nestle.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Crime & Controversy: Nestle's 5 Biggest Scandals Explained",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Futopia.org%2Fguide%2Fcrime%2Dcontroversy%2Dnestles%2D5%2Dbiggest%2Dscandals%2Dexplained%2F&rut=8dcde2993cc7197070d2e3b6ef943e48429090258fe00fdd967aa9e4a88d3299",
+          "snippet": "Baby formula is one of the biggest and most controversial of all Nestlé products. (Foto: Photo: CC0 Public Domain / Unsplash - Rainier Ridao) Since the company's conception in 1867, Nestlé has convinced people its baby formula is better for infants than breast milk — a claim that is categorically false. They placed particular focus on marketing in developing countries in Africa, Latin ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé, Danone off the hook in toxic baby food litigation",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dairyreporter.com%2FArticle%2F2025%2F04%2F15%2Fnestle%2Ddanone%2Doff%2Dthe%2Dhook%2Din%2Dtoxic%2Dbaby%2Dfood%2Dlitigation%2F&rut=dd3fbcedf6ee1231072f61610eb6081aed8958ddbd66634c80c008d5eabbf730",
+          "snippet": "A US federal judge ruled that the food majors were not culpable for their subsidiaries' flawed safety protocols Nestle SA, Danone SA and Hero AG were stricken off the defendants' list of a multi-district litigation (MDL) alleging their subsidiaries knowingly sold baby food tainted with toxic heavy metals.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestle Baby Food: Toxic Baby Food Lawsuit - TruLaw",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Ftrulaw.com%2Ftoxic%2Dbaby%2Dfood%2Dlawsuit%2Fnestle%2Dbaby%2Dfood%2Dtoxic%2Dbaby%2Dfood%2Dlawsuit%2F&rut=e4798ecc545f18c500c6d9f3089f74dd3fb4ee0203ff8305b248c4b2c99a357c",
+          "snippet": "The plaintiffs' master complaint consolidates the common factual and legal issues from numerous individual lawsuits into a single document: The MDL currently has over 30 lawsuits pending against Nestlé and other baby food companies.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé Data Breach: A Deep Dive into R00TK1T's Cyber Attack",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fcyberpress.org%2Fnestle%2Ddata%2Dbreach%2F&rut=19661735105e77897caf977b47c7656b89b95e3d4e304cfa518737b5978bb432",
+          "snippet": "In a cybersecurity incident, the hacker group R00TK1T has claimed responsibility for a data breach at Nestlé, one of the world's leading food and beverage companies. This breach highlights the ongoing challenges that major corporations face in securing their digital infrastructure against sophisticated cyber threats. The Breach: Targeting Nestlé According to the post from DarkWebInformer ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "R00TK1T Claims that They Acquired Confidential Data from Nestle",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fcybersecuritynews.com%2Fr00tk1t%2Dclaims%2F&rut=603b0897a4ce1417584b1f187aff7c2dd4aa2f3bedc061671017e75b2480ecaa",
+          "snippet": "The alleged breach of Nestle by R00TK1T serves as a stark reminder of the ever-present cyber threats facing corporations today. As the investigation continues, the incident will fuel the ongoing dialogue about the need for more robust cybersecurity measures in the corporate world. Looking to Safeguard Your Company from Advanced Cyber Threats?",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Nestlé Data Breach: Uncovering the r00tk1t Cyber Threat - Foresiet",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fforesiet.com%2Fblog%2Fnestle%2Ddata%2Dbreach%2Dr00tk1t%2Dcyberattack%2F&rut=29f53305766993a75a4d49f1ff8826b7e5c1c2b7903d0630816095bd36e0f865",
+          "snippet": "Nestle Breach The recent breach at Nestle underscores the persistent threat posed by R00TK1T. Claiming to have accessed confidential information, the group's actions raise questions about the adequacy of Nestle's cybersecurity measures and the broader implications for consumer trust and data security.",
+          "source": "DuckDuckGo"
+        }
+      ]
+    }
+  },
+  "researchMetadata": {
+    "researchDate": "2025-10-29T11:20:59.595420",
+    "researcher": "Automated Company Profile System",
+    "dataSource": "Web search and news aggregation",
+    "limitations": "Based on publicly available information. Official registries and specialized databases not accessed."
+  }
+}

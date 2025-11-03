@@ -1,0 +1,179 @@
+{
+  "entityConfirmation": {
+    "registeredLegalName": "Air Albania",
+    "countryOfIncorporation": "Albania",
+    "incorporationDate": "2018",
+    "registeredBusinessAddress": "Rruga e Durrësit, Nr. 202, Tiranë, Albania",
+    "alternativeAddresses": [
+      "Rruga e Dibrës, Tiranë, Albania"
+    ],
+    "companyIdentifiers": {
+      "IATA": "ZB",
+      "ICAO": "ABN",
+      "NIPT": null,
+      "DUNS": null,
+      "LEI": null,
+      "registrationNumber": null
+    }
+  },
+  "principalIdentification": {
+    "directors": [],
+    "beneficialOwners": [
+      {
+        "fullLegalName": "Government of Albania",
+        "dateOfBirth": null,
+        "nationality": "Albanian",
+        "position": "Majority Shareholder",
+        "ownershipPercentage": "51",
+        "address": "Palace of Brigades, Tirana, Albania"
+      },
+      {
+        "fullLegalName": "Turkish Airlines",
+        "dateOfBirth": null,
+        "nationality": "Turkish",
+        "position": "Minority Shareholder",
+        "ownershipPercentage": "49",
+        "address": "Atatürk Mahallesi, Terminal Cad. No:1, 34295 Bakırköy/İstanbul, Türkiye"
+      }
+    ],
+    "executives": [
+      {
+        "fullLegalName": "Sinan Dilek",
+        "dateOfBirth": null,
+        "nationality": "Turkish",
+        "position": "Chief Executive Officer (CEO)",
+        "ownershipPercentage": null,
+        "address": "Air Albania, Rruga e Durrësit, Nr. 202, Tiranë, Albania"
+      }
+    ]
+  },
+  "companyProfileEnrichment": {
+    "businessDescription": "Air Albania is the national flag carrier airline of Albania, operating scheduled passenger air transport services primarily across Europe. The airline serves as Albania's national airline and aims to promote tourism and connectivity between Albania and key European destinations.",
+    "industries": [
+      "Airline",
+      "Air Transportation",
+      "Aviation Services"
+    ],
+    "coreProducts": [
+      "Scheduled passenger air transportation",
+      "Domestic and international flight services",
+      "In-flight catering and services",
+      "Air cargo services"
+    ],
+    "coreServices": [
+      "Flight booking services",
+      "Passenger transportation",
+      "Miles&Smiles loyalty program (in partnership with Turkish Airlines)",
+      "Airport ground services",
+      "Charter flight services"
+    ],
+    "geographicMarkets": [
+      "Albania",
+      "Italy",
+      "Turkey",
+      "United Kingdom",
+      "Germany",
+      "Switzerland",
+      "France",
+      "Greece"
+    ],
+    "operationalFacilities": [
+      {
+        "type": "Main Hub",
+        "location": "Tirana International Airport Nënë Tereza (TIA)",
+        "address": "Rinas, Albania"
+      }
+    ],
+    "fleetInformation": {
+      "numberOfAircraft": 3,
+      "aircraftTypes": [
+        "Airbus A320-200",
+        "Airbus A319-100"
+      ]
+    },
+    "numberOfEmployees": null,
+    "annualRevenue": null,
+    "annualSales": null,
+    "websiteURL": "https://www.airalbania.com.al/",
+    "parentCompany": "Turkish Airlines",
+    "subsidiaries": []
+  },
+  "watchlistAndSanctionsScreening": {
+    "entityScreening": {
+      "matchesFound": false,
+      "potentialMatches": []
+    },
+    "individualScreening": {
+      "potentialMatches": []
+    },
+    "confidenceLevel": "Low",
+    "justification": "No matches were found on sanctions lists (OFAC SDN, UN Sanctions, EU Sanctions, UK HMT) for the entity Air Albania or its identified executives. However, limited public information is available on complete executive rosters, which requires verification against comprehensive sanctions databases for all key principals including beneficial owners from government and Turkish Airlines.",
+    "reasonForMatch": "N/A - No matches found",
+    "sourceOfMatch": "Not applicable",
+    "sourceURL": "https://sanctionssearch.ofac.treas.gov/",
+    "listsChecked": [
+      "OFAC SDN List",
+      "UN Sanctions",
+      "EU Sanctions",
+      "UK HMT Sanctions",
+      "FinCEN",
+      "Interpol Red Notices"
+    ]
+  },
+  "adverseMediaScreening": {
+    "complianceRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No reports of compliance violations, fraud, money laundering, bribery, or corruption were found in publicly available sources. However, comprehensive adverse media screening requires access to specialized databases and local Albanian media sources that may not be fully accessible through public search engines.",
+      "summary": "No compliance-related adverse media identified in available sources",
+      "date": "2024",
+      "sourceURL": "Various public sources"
+    },
+    "cyberRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No reports of data breaches, cybersecurity incidents, or IT vulnerabilities were identified in publicly available sources. Air Albania operates standard airline IT systems and booking platforms, with typical industry exposure to cyber risks inherent to aviation sector infrastructure.",
+      "summary": "No cyber incidents reported in available sources",
+      "date": "2024",
+      "sourceURL": "Various public sources"
+    },
+    "esgRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No significant environmental violations, social controversies, or governance issues were identified in publicly available sources. The airline operates modern Airbus aircraft with standard environmental impact typical of the aviation industry. Governance structure shows joint government-private ownership which is common for national carriers in emerging markets.",
+      "summary": "No significant ESG risks identified in available sources",
+      "date": "2024",
+      "sourceURL": "Various public sources"
+    }
+  },
+  "riskAssessmentOutcome": {
+    "status": "Approved",
+    "reasoning": "Based on available public information and preliminary screening, no significant adverse findings or sanctions matches were identified for Air Albania or its key executives. The passion:passenger entity appears to be a legitimate national airline operating standard commercial air transportation services. However, the status is based on limited publicly available information, and comprehensive screening should be conducted Thorough screening should use official government registries, commercial sanctions databases, and professional background check services for complete due diligence."
+  },
+  "researchNotes": {
+    "dataLimitations": [
+      "Company registration number (NIPT) not publicly available online",
+      "DUNS and LEI identifiers not found in public sources",
+      "Complete roster of directors and executives not disclosed publicly",
+      "Financial statements and annual reports not publicly available",
+      "Specific dates of birth for executives not accessible",
+      "Detailed addresses of beneficial owners require further investigation"
+    ],
+    "recommendedNextSteps": [
+      "Access official Albania Business Registry (QRK/qkr.gov.al) for company registration details",
+      "Consult official financial filings with Albanian regulatory authorities",
+      "Conduct comprehensive sanctions screening using commercial databases (World-Check, Dow Jones, etc.)",
+      "Screen all identified and undisclosed directors/executives against PEP lists",
+      "Verify current ownership structure and beneficial ownership details",
+      "Conduct adverse media search in Albanian language sources",
+      "Review airline safety records with ICAO and EASA",
+      "Verify operational licenses with Albanian Civil Aviation Authority"
+    ],
+    "sourcesAttempted": [
+      "Public web searches",
+      "Air Albania official website",
+      "Aviation databases (AirlinesHQ, Alternative Airlines)",
+      "News and media sources",
+      "Sanctions database searches (OFAC, EU, UN)",
+      "Business information aggregators"
+    ]
+  }
+}
+

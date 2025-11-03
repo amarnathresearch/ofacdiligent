@@ -1,0 +1,46 @@
+{
+  "api_keys": {
+    "serpapi_key": "",
+    "news_api_key": ""
+  },
+  "search_settings": {
+    "max_results_per_query": 5,
+    "delay_between_queries": 1,
+    "use_serpapi": false,
+    "use_news_api": false
+  },
+  "output_settings": {
+    "save_raw_data": true,
+    "include_research_metadata": true,
+    "output_format": "json"
+  },
+  "sanctions_lists": {
+    "check_ofac": true,
+    "check_un": true,
+    "check_eu": true,
+    "check_uk": true
+  },
+  "country_specific_registries": {
+    "Albania": {
+      "registry_name": "Albania Business Registry",
+      "registry_url": "https://qkr.gov.al",
+      "search_endpoint": ""
+    },
+    "Germany": {
+      "registry_name": "Handelsregister",
+      "registry_url": "https://www.handelsregister.de",
+      "search_endpoint": ""
+    },
+    "United Kingdom": {
+      "registry_name": "Companies House",
+      "registry_url": "https://find-and-update.company-information.service.gov.uk",
+      "search_endpoint": ""
+    },
+    "France": {
+      "registry_name": "Infogreffe",
+      "registry_url": "https://www.infogreffe.fr",
+      "search_endpoint": ""
+    }
+  }
+}
+

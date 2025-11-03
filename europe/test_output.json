@@ -1,0 +1,264 @@
+{
+  "entityConfirmation": {
+    "registeredLegalName": "Air Albania",
+    "countryOfIncorporation": "Albania",
+    "incorporationDate": "20",
+    "registeredBusinessAddress": null,
+    "companyIdentifiers": {
+      "IATA": null,
+      "ICAO": null,
+      "NIPT": null,
+      "DUNS": null,
+      "LEI": null,
+      "registrationNumber": null
+    }
+  },
+  "principalIdentification": {
+    "directors": [],
+    "beneficialOwners": [],
+    "executives": []
+  },
+  "companyProfileEnrichment": {
+    "businessDescription": null,
+    "industries": [],
+    "coreProducts": [],
+    "coreServices": [],
+    "geographicMarkets": [
+      "Albania"
+    ],
+    "operationalFacilities": [],
+    "fleetInformation": null,
+    "numberOfEmployees": null,
+    "annualRevenue": null,
+    "annualSales": null,
+    "websiteURL": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.airalbania.com.al%2Fen%2F&rut=eb0a79abe16ead59e52b6d9c01e50f579350dad078199692668b3d18f950248c",
+    "parentCompany": null,
+    "subsidiaries": []
+  },
+  "watchlistAndSanctionsScreening": {
+    "entityScreening": {
+      "matchesFound": false,
+      "potentialMatches": []
+    },
+    "individualScreening": {
+      "potentialMatches": []
+    },
+    "confidenceLevel": "Low",
+    "justification": "Automated screening completed based on available public information. Manual verification required for comprehensive sanctions check.",
+    "reasonForMatch": "N/A",
+    "sourceOfMatch": "Automated search",
+    "sourceURL": "Multiple sources",
+    "listsChecked": [
+      "OFAC SDN List",
+      "UN Sanctions",
+      "EU Sanctions",
+      "UK HMT Sanctions"
+    ]
+  },
+  "adverseMediaScreening": {
+    "complianceRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited adverse media found in automated search. Manual verification recommended for comprehensive risk assessment.",
+      "summary": "No significant compliance risks identified in automated search",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "cyberRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No cybersecurity incidents identified in automated search. Verification against specialized databases recommended.",
+      "summary": "No significant cyber risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "esgRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited ESG-related adverse media in automated search. Comprehensive ESG assessment requires specialized databases.",
+      "summary": "No significant ESG risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    }
+  },
+  "riskAssessmentOutcome": {
+    "status": "Pending Review",
+    "reasoning": "Automated search completed. Manual verification and comprehensive database screening required for complete risk assessment."
+  },
+  "rawResearchData": {
+    "entityDetails": {
+      "query": "Air Albania Albania",
+      "results": [
+        {
+          "title": "AIR ALBANIA - opencorporates.al",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fopencorporates.al%2Fen%2Fnipt%2FL82113028I&rut=ad40307b212a14f44aa69b03d9a111aadfd36bb81a262913d8d78228a95b4275",
+          "snippet": "Profit before Tax (ALL Albanian Currency Lekë) 2018: -12 265 000,00"
+        },
+        {
+          "title": "AIR ALBANIA SH.P.K. Albania, TIRANE | Info-clipper.com",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.info%2Dclipper.com%2Fen%2Fcompany%2Falbania%2Fair%2Dalbania%2Dshpk.ald8dkn18.html&rut=5f8fd03d9287c94342e30963646b69eb43a8436d2bbd656d82de69d67ded8308",
+          "snippet": "AIR ALBANIA SH.P.K. is headquartered in TIRANE : The Business report also list branches and affiliates in Albania. Albania Company Registry : Registration number, adress, legal representatives and executives, filings ans records, proceedings and suits,..."
+        },
+        {
+          "title": "AIR ALBANIA SH.P.K. Company Profile - Dun & Bradstreet",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dnb.com%2Fbusiness%2Ddirectory%2Fcompany%2Dprofiles.air_albania_shpk.70249461b2a40befb173bd59713a3abc.html&rut=2629d923413518c368aa9277435ec8b668503ca1d948f920b6d72a2e6c440f23",
+          "snippet": "Find company research, competitor information, contact details & financial data for AIR ALBANIA SH.P.K. of TIRANE. Get the latest business insights from Dun & Bradstreet."
+        },
+        {
+          "title": "Air Albania Krenaria e Shqipërisë",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.airalbania.com.al%2Fcontact%2F&rut=6f8f2c3abeadb9ad36d5b57993460f58cba7b5e373169b0b43f1838a6c468179",
+          "snippet": "Air Albania's Contact Options: Contact our customer support or office"
+        },
+        {
+          "title": "AIR ALBANIA SH.P.K. Albania, TIRANE | Info-clipper.com",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.info%2Dclipper.com%2Fen%2Fcompany%2Falbania%2Fair%2Dalbania%2Dshpk.ald8dkn18.html&rut=5f8fd03d9287c94342e30963646b69eb43a8436d2bbd656d82de69d67ded8308",
+          "snippet": "AIR ALBANIA SH.P.K. is a company registered in Albania. Info-clipper.com brings you a complete range of reports and documents featuring legal and financial data, facts, analysis and official information from Albanian Registry."
+        },
+        {
+          "title": "AIR ALBANIA SH.P.K. Company Profile - Dun & Bradstreet",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dnb.com%2Fbusiness%2Ddirectory%2Fcompany%2Dprofiles.air_albania_shpk.70249461b2a40befb173bd59713a3abc.html&rut=2629d923413518c368aa9277435ec8b668503ca1d948f920b6d72a2e6c440f23",
+          "snippet": "Find company research, competitor information, contact details & financial data for AIR ALBANIA SH.P.K. of TIRANE. Get the latest business insights from Dun & Bradstreet."
+        }
+      ],
+      "timestamp": "2025-10-29T11:07:58.593735"
+    },
+    "principals": {
+      "query": "Air Albania principals",
+      "results": [
+        {
+          "title": "Air Albania Management Team | Org Chart - RocketReach",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Frocketreach.co%2Fair%2Dalbania%2Dmanagement_b42de69ffe3de47f&rut=cb58696ed92f2d21dd405a66a97f510c9cd9f47641b1fad8ed8ed68622649a9a",
+          "snippet": "Air Albania employs 118 employees. The Air Albania management team includes Sinan ISIK (Chief Executive Officer), Denis P (Head of Contracts), and Rezan Tufa (Head of Sales and Marketing)."
+        },
+        {
+          "title": "Air Albania Company Profile | Management and Employees List",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.datanyze.com%2Fcompanies%2Fair%2Dalbania%2F471576074&rut=8a02633f9db3bf9a6e26a19591f07d93f118b5478b09d28bb65a56220fd465fe",
+          "snippet": "Find contact information for Air Albania. Learn about their Airlines, Airports & Air Services, Transportation market share, competitors, and Air Albania's email format."
+        },
+        {
+          "title": "Sinan ISIK - Chief Executive Officer / Accountable Manager Air Albania ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fal.linkedin.com%2Fin%2Fsinan%2Disik%2D21ab92113&rut=58670349dbd4e975c9b43616f464b3a4ad6273c4b38080b0fcd06fece0fd139e",
+          "snippet": "Chief Executive Officer / Accountable Manager Air Albania 🇦🇱 · Airline Management, Flight Operations Management, Crew Training. · Experience: Air Albania · Education: Anadolu Üniversitesi · Location: Tirana · 500+ connections on LinkedIn. View Sinan ISIK's profile on LinkedIn, a professional community of 1 billion members."
+        },
+        {
+          "title": "Air Albania Management Team | Org Chart - RocketReach",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Frocketreach.co%2Fair%2Dalbania%2Dmanagement_b42de69ffe3de47f&rut=cb58696ed92f2d21dd405a66a97f510c9cd9f47641b1fad8ed8ed68622649a9a",
+          "snippet": "Air Albania employs 118 employees. The Air Albania management team includes Sinan ISIK (Chief Executive Officer), Denis P (Head of Contracts), and Rezan Tufa (Head of Sales and Marketing)."
+        },
+        {
+          "title": "Air Albania Company Profile | Management and Employees List",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.datanyze.com%2Fcompanies%2Fair%2Dalbania%2F471576074&rut=8a02633f9db3bf9a6e26a19591f07d93f118b5478b09d28bb65a56220fd465fe",
+          "snippet": "Find contact information for Air Albania. Learn about their Airlines, Airports & Air Services, Transportation market share, competitors, and Air Albania's email format."
+        },
+        {
+          "title": "AIR ALBANIA - Open Corporates",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fopencorporates.al%2Fsq%2Fnipt%2FL82113028I&rut=534a3e01db4915014bda9fa26bba31cd32a64e0c77bf0078d27127a48e4cb004",
+          "snippet": "Krijimi i instrumenteve që lehtësojnë gjetjen, përdorimin dhe vizibilitetin e informacionit mbi shpërndarjen e kontratave publike sipas kontraktorëve / klientëve.<br>• Rritje e kapacitetit të gazetarëve lokal në realizimin e shkrimeve mbi shpërndarjen e kontratave publike sipas Klientëve.<br>• Identifikim i shpërndarjes se kontratave publike (parasë publike) në klient sipas ..."
+        },
+        {
+          "title": "Air Albania - Wikipedia",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAir_Albania&rut=dfc91dd5a1bf80ed22e22075fefd960262f0cd04d2eb5926366deb278d9f1153",
+          "snippet": "Air Albania is the flag carrier of Albania. [4][5] The airline maintains its hub and company headquarters at the Tirana International Airport Nënë Tereza in Tirana, Albania."
+        },
+        {
+          "title": "Air Albania 2025 Company Profile: Valuation, Funding & Investors ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fpitchbook.com%2Fprofiles%2Fcompany%2F436279%2D15&rut=a5c218ae1966cca2b4165d6545dc34e0a2954f4a92e2cfb452d7ffc02148ead9",
+          "snippet": "Information on valuation, funding, acquisitions, investors, and executives for Air Albania. Use the PitchBook Platform to explore the full profile."
+        },
+        {
+          "title": "Who owns and what do the balance sheets of \"Air Albania\" hide?",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cna.al%2Fenglish%2Fdenoncim%2Fkush%2Di%2Dka%2Ddhe%2Dcfare%2Dfshehin%2Dbilancet%2De%2Dair%2Dalbania%2Di438466&rut=c8e0db0f4242ff241fd12f74fe5305789ef46e5c3684b13cd23101df9fea2dc3",
+          "snippet": "The worsening of the financial situation of \"Air Albania\" does not belong to a period of several months, but is long-term and their secret is the balance sheets, where within them are the overbillings received from persons who have accepted them by abusing and damaging \"Air Albania\" and bringing it serious financial consequences."
+        }
+      ]
+    },
+    "businessActivities": {
+      "query": "Air Albania business",
+      "results": [
+        {
+          "title": "Air Albania Krenaria e Shqipërisë",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.airalbania.com.al%2Fen%2F&rut=eb0a79abe16ead59e52b6d9c01e50f579350dad078199692668b3d18f950248c",
+          "snippet": "Experience the charm of European countries with Air Albania for an unparalleled travel adventure. Secure your flight tickets, book hotels, and rent cars seamlessly while staying updated with the latest travel information from Albania."
+        },
+        {
+          "title": "Air Albania - Products, Competitors, Financials, Employees ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fair%2Dalbania&rut=ed7757d5b5534e878da64294f5fa1265902c5e31f47f459b58033494b64a0ad9",
+          "snippet": "The company offers services such as flight bookings, group travel arrangements, and a range of travel-related services including hotel bookings and car rentals. Air Albania caters to both individual and business customers seeking travel solutions, particularly in the European market. It was founded in 2018 and is based in Tirana, Albania."
+        },
+        {
+          "title": "Air Albania - Wikipedia",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAir_Albania&rut=dfc91dd5a1bf80ed22e22075fefd960262f0cd04d2eb5926366deb278d9f1153",
+          "snippet": "Air Albania is the flag carrier of Albania. [4][5] The airline maintains its hub and company headquarters at the Tirana International Airport Nënë Tereza in Tirana, Albania."
+        },
+        {
+          "title": "Air Albania - Overview, News & Similar companies | ZoomInfo.com",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fair%2Dalbania%2F471576074&rut=b707a358e44fd88e1ddbb11f81a243cfa184fdff99e5bb813dc48d3a1975e148",
+          "snippet": "View Air Albania (www.airalbania.com.al) location in Albania , revenue, industry and description. Find related and similar companies as well as employees by title and much more."
+        },
+        {
+          "title": "Air Albania Company Profile | Management and Employees List",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.datanyze.com%2Fcompanies%2Fair%2Dalbania%2F471576074&rut=8a02633f9db3bf9a6e26a19591f07d93f118b5478b09d28bb65a56220fd465fe",
+          "snippet": "Find contact information for Air Albania. Learn about their Airlines, Airports & Air Services, Transportation market share, competitors, and Air Albania's email format."
+        },
+        {
+          "title": "AIR ALBANIA SH.P.K. Company Profile - Dun & Bradstreet",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.dnb.com%2Fbusiness%2Ddirectory%2Fcompany%2Dprofiles.air_albania_shpk.70249461b2a40befb173bd59713a3abc.html&rut=2629d923413518c368aa9277435ec8b668503ca1d948f920b6d72a2e6c440f23",
+          "snippet": "Find company research, competitor information, contact details & financial data for AIR ALBANIA SH.P.K. of TIRANE. Get the latest business insights from Dun & Bradstreet."
+        }
+      ]
+    },
+    "adverseMedia": {
+      "query": "Air Albania adverse media",
+      "results": [
+        {
+          "title": "The overbilling scandal that deepened Air Albania's losses",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cna.al%2Fenglish%2Fdenoncim%2Fskandali%2Dme%2Dmbifaturimet%2Dqe%2Dthelluan%2Dhumbjet%2De%2Dair%2Dalbania%2Di438554&rut=97c75ec02174855b76026257168c12614b51926f0e93bd77886bc5bd1fb7d099",
+          "snippet": "This latest decision by the Supreme Court shows Air Albania's complaint for excessive billing, accepted by CEO Sinan Dilek. This overbilling is part of the loss presented in the balance sheet declared by Turkish Airlines for \"Air Albania\", material that was also published in the media."
+        },
+        {
+          "title": "\"Air Albania\" ends up in court, fails to pay 5 million euros in ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.voxnews.al%2Fenglish%2Fbiznes%2Fair%2Dalbania%2Dperfundon%2Dne%2Dgjykate%2Dnuk%2Dpaguan%2D5%2Dmln%2Deuro%2Dushqim%2Dpasagjeresh%2Di94614&rut=9ac8cdb3fe75b4b4c8fcd9d585d964fd3bfb775851a43899887b259a868afd6b",
+          "snippet": "The Court of Appeals orders the company \"Air Albania\" to pay around 5 million euros in overdue invoices to a company that supplies food to passengers on board. This court decision, although made on May 13, 2025, has not yet been reflected in the National Business Center. The airline \"Air Albania\", which is best known for providing a jet taxi to Prime Minister Edi Rama, is refusing to pay ..."
+        },
+        {
+          "title": "Air Albania heading for bankruptcy, the two Sinans lead the company to ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fpamfleti.net%2Fenglish%2Fdosja%2Fair%2Dalbania%2Ddrejt%2Dfalimentit%2Ddy%2Dsinanet%2Dcojne%2Dkompanine%2Dne%2Dkolaps%2Dpunonjes%2Di292830&rut=41c5851ee996f9c0b41ee3e12297c90c5d8d809c96df680319ff457dc136b91b",
+          "snippet": "To avoid a scandal, the director of Civil Aviation, according to sources, ordered Air Albania to publicly declare that the aircraft was under maintenance, while there are official communications proving the opposite. Inside sources possess official communications proving the opposite."
+        },
+        {
+          "title": "The overbilling scandal that deepened Air Albania's losses",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cna.al%2Fenglish%2Fdenoncim%2Fskandali%2Dme%2Dmbifaturimet%2Dqe%2Dthelluan%2Dhumbjet%2De%2Dair%2Dalbania%2Di438554&rut=97c75ec02174855b76026257168c12614b51926f0e93bd77886bc5bd1fb7d099",
+          "snippet": "This latest decision by the Supreme Court shows Air Albania's complaint for excessive billing, accepted by CEO Sinan Dilek. This overbilling is part of the loss presented in the balance sheet declared by Turkish Airlines for \"Air Albania\", material that was also published in the media."
+        },
+        {
+          "title": "Americans sue Air Albanian in English court: It stopped paying rent in ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.voxnews.al%2Fenglish%2Faktualitet%2Famerikanet%2Dpadisin%2Dair%2Dalbanian%2Dne%2Dgjykaten%2Dangleze%2Dnderpreu%2Dpagesen%2D%2Di99180&rut=e33130f897b0269bd08b6b8fa34ba01bf7fef3c58d97878053157d56c177f577",
+          "snippet": "An American company from Florida has filed a lawsuit against the Albanian flag carrier, Air Albania, as the first defendant, and Turkish Airlines as the second defendant, before the High Court of England and Wales, alleging breach of lease contracts for two A320-200 aircraft."
+        },
+        {
+          "title": "Air Albania heading for the 'precipice', the aircraft lessor sues the ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fpolitiko.al%2Fenglish%2Fe%2Dtjera%2Fair%2Dalbania%2Ddrejt%2Dgremines%2Dqiradhenesi%2Di%2Davioneve%2Dpadit%2Dkompanine%2Dshqipt%2Di539417&rut=4aa7856ac895f9847c9bb984b857457fb04ef1c0da86c74d0b4174c9090dddc9",
+          "snippet": "Air Albania's financial problems appear to be very deep. Swiss aviation news site Ch-Aviation reported that one of the lessors has sued the Albanian company in court for non-payment of aircraft lease payments."
+        },
+        {
+          "title": "Wiper malware found in analysis of Iran-linked attacks on Albanian ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Ftherecord.media%2Falbania%2Dparliament%2Dtelecoms%2Dairline%2Dcyberattacks%2Dwiper%2Dmalware&rut=9c89f5c2f260f4f51f31d3253c37a6aae26bc0a1cfde781c370cdcdbbbca5714",
+          "snippet": "Researchers at ClearSky said they spotted wiper malware called No-Justice in their investigation of attacks on Albania's parliament, two telecoms and an airline."
+        },
+        {
+          "title": "Albania Parliament Cyberattack Sparks Heightened Concerns",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fthecyberexpress.com%2Falbania%2Dparliament%2Dcyberattack%2F&rut=62ae844e2e71f8a65e708023056bb32cf19ee2ce9e3e1f044cced0bd78b05b17",
+          "snippet": "Cybersecurity Concerns Heightened as Albania Parliament Faces Another Cyberattack This recent incident follows reports of cyberattacks on a local cell phone provider and an air flight company on the same day."
+        },
+        {
+          "title": "A cyberattack targets Albanian Parliament's data system, halting its ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fapnews.com%2Farticle%2Falbania%2Dcyberattack%2Dparliament%2Diran%2Dcc1a03b58bd753bbe935ad74f1abc0f7&rut=912b02381417c437e1e4dc2e59b335aeeede1f7105ceda39f183e48958cf48c0",
+          "snippet": "TIRANA, Albania (AP) — Albania's Parliament said on Tuesday that it had suffered a cyberattack with hackers trying to get into its data system, resulting in a temporary halt in its services."
+        }
+      ]
+    }
+  },
+  "researchMetadata": {
+    "researchDate": "2025-10-29T11:08:15.139505",
+    "researcher": "Automated Company Profile System",
+    "dataSource": "Web search and news aggregation",
+    "limitations": "Based on publicly available information. Official registries and specialized databases not accessed."
+  }
+}

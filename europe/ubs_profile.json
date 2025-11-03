@@ -1,0 +1,294 @@
+{
+  "entityConfirmation": {
+    "registeredLegalName": "UBS",
+    "countryOfIncorporation": "Switzerland",
+    "incorporationDate": "20",
+    "registeredBusinessAddress": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Four%2Dfirm%2Fgovernance%2Fubs%2Dag.html&rut=3edfb5d1a645b7494d454fe335489dab77e3f38f1ea06157cec9121b8f2654a5",
+    "companyIdentifiers": {
+      "IATA": null,
+      "ICAO": null,
+      "NIPT": null,
+      "DUNS": null,
+      "LEI": null,
+      "registrationNumber": null
+    }
+  },
+  "principalIdentification": {
+    "directors": [],
+    "beneficialOwners": [],
+    "executives": []
+  },
+  "companyProfileEnrichment": {
+    "businessDescription": null,
+    "industries": [],
+    "coreProducts": [],
+    "coreServices": [],
+    "geographicMarkets": [
+      "Switzerland"
+    ],
+    "operationalFacilities": [],
+    "fleetInformation": null,
+    "numberOfEmployees": null,
+    "annualRevenue": null,
+    "annualSales": null,
+    "websiteURL": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Fwealthmanagement%2Ffinancial%2Dintermediaries%2Fproducts%2Dand%2Dservices.html&rut=e3e45565847e5db798fe6b979934c5bf7cf1059db9978caa33dd7c7a626ca92e",
+    "parentCompany": null,
+    "subsidiaries": []
+  },
+  "watchlistAndSanctionsScreening": {
+    "entityScreening": {
+      "matchesFound": false,
+      "potentialMatches": []
+    },
+    "individualScreening": {
+      "potentialMatches": []
+    },
+    "confidenceLevel": "Low",
+    "justification": "Automated screening completed based on available public information. Manual verification required for comprehensive sanctions check.",
+    "reasonForMatch": "N/A",
+    "sourceOfMatch": "Automated search",
+    "sourceURL": "Multiple sources",
+    "listsChecked": [
+      "OFAC SDN List",
+      "UN Sanctions",
+      "EU Sanctions",
+      "UK HMT Sanctions"
+    ]
+  },
+  "adverseMediaScreening": {
+    "complianceRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited adverse media found in automated search. Manual verification recommended for comprehensive risk assessment.",
+      "summary": "No significant compliance risks identified in automated search",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "cyberRisk": {
+      "confidenceLevel": "Low",
+      "justification": "No cybersecurity incidents identified in automated search. Verification against specialized databases recommended.",
+      "summary": "No significant cyber risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    },
+    "esgRisk": {
+      "confidenceLevel": "Low",
+      "justification": "Limited ESG-related adverse media in automated search. Comprehensive ESG assessment requires specialized databases.",
+      "summary": "No significant ESG risks identified",
+      "date": "2025-10-29",
+      "sourceURL": "Automated search"
+    }
+  },
+  "riskAssessmentOutcome": {
+    "status": "Pending Review",
+    "reasoning": "Automated search completed. Manual verification and comprehensive database screening required for complete risk assessment."
+  },
+  "rawResearchData": {
+    "entityDetails": {
+      "query": "UBS Switzerland",
+      "results": [
+        {
+          "title": "UBS AG | UBS Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Four%2Dfirm%2Fgovernance%2Fubs%2Dag.html&rut=3edfb5d1a645b7494d454fe335489dab77e3f38f1ea06157cec9121b8f2654a5",
+          "snippet": "UBS AG UBS AG is incorporated and domiciled in Switzerland and operates under Art. 620ff. of the Swiss Code of Obligations as an Aktiengesellschaft, a corporation limited by shares. The addresses of the two registered offices of UBS AG are: Bahnhofstrasse 45, CH-8001 Zurich, Switzerland; and Aeschenvorstadt 1, CH-4051 Basel, Switzerland.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Switzerland AG - CHE-412.669.376 - Switzerland - B2BHint",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fb2bhint.com%2Fen%2Fcompany%2Fch%2Fubs%2Dswitzerland%2Dag%2D%2DCHE%2D412.669.376&rut=13a9deb655228b84bb9bc851201b36569d7c6ce476493a167a743c1fa6c6b5e7",
+          "snippet": "UBS Switzerland AG Switzerland company, Company number: CHE-412.669.376, Incorporation Date Sep 3, 2014;, Address: Bahnhofstrasse 45, 8001 Zürich, ZH",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS AG overview - Find and update company information - GOV.UK",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Ffind%2Dand%2Dupdate.company%2Dinformation.service.gov.uk%2Fcompany%2FFC021146&rut=edd679974f1421c9966ed39a492bb0754905d941a0f85c5692515536dad02cce",
+          "snippet": "Company details in the country of incorporation Incorporated in SWITZERLAND Registration number CHE-101.329.561 Legal form Ag (Public Limited Company) Parent registry Register Of Commerce Of The Canton Of Zurich & Register",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Group AG | UBS Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Four%2Dfirm%2Fgovernance%2Fubs%2Dgroup%2Dag.html&rut=a8cde6c332955ee08925d25818b2a21c21495f0d72253048c20d00b57395702b",
+          "snippet": "Its registered office is at Bahnhofstrasse 45, 8001 Zurich, Switzerland, and its corporate identification number is CHE-395.345.924. UBS Group AG was incorporated on 10 June 2014 and was established in 2014 as the holding company of the UBS Group.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Switzerland AG · UBS Epsilon AG · Bahnhofstrasse 45, Zurich, CH-ZH ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fopencorpdata.com%2Flei%2F549300WOIFUSNYH0FL22&rut=ea218b8babacd4bbaccae70564a733e5fe21a096423c481298e64f3d6d049757",
+          "snippet": "UBS Switzerland AG (LEI# 549300WOIFUSNYH0FL22) is a legal entity registered with . The address is Bahnhofstrasse 45, Zurich, CH-ZH, 8001, CH.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS AG overview - Find and update company information - GOV.UK",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Ffind%2Dand%2Dupdate.company%2Dinformation.service.gov.uk%2Fcompany%2FFC021146&rut=edd679974f1421c9966ed39a492bb0754905d941a0f85c5692515536dad02cce",
+          "snippet": "UBS AG - Free company information from Companies House including registered office address, filing history, accounts, annual return, officers, charges, business activity",
+          "source": "DuckDuckGo"
+        }
+      ],
+      "timestamp": "2025-10-29T11:22:59.475796"
+    },
+    "principals": {
+      "query": "UBS principals",
+      "results": [
+        {
+          "title": "Group Executive Board | UBS Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Four%2Dfirm%2Fgovernance%2Fubs%2Dgroup%2Dag%2Fgroup%2Dexecutive%2Dboard.html&rut=19df5c4d0d68bb793a65d17ccf0acf40eec334f43717a05073db5584409cd960",
+          "snippet": "Group Executive Board UBS Group AG operates under a strict dual board structure, as mandated by Swiss banking law, and therefore the BoD delegates the management of the business to the GEB.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Switzerland Org Chart + Executive Team - The Official Board",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.theofficialboard.com%2Forg%2Dchart%2Fubs%2Dswitzerland&rut=94e2911ca85e358c667af7e429fc882ea9de3256023db432140022023b3c80c5",
+          "snippet": "The org chart of UBS Switzerland contains its 16 main executives like Sabine Keller-Busse, Marc Nyffenegger and Karin Oertli.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Group AG: Governance, Directors and Executives & Committees ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FUBS%2DGROUP%2DAG%2D18740542%2Fcompany%2Dgovernance%2F&rut=d8f717f9419f29f50cd9d8d2c40a954eba46a9c02af5dc38947dac586eab379a",
+          "snippet": "Find the composition of the Board of Directors of UBS Group AG (SIX SWISS EXCHANGE - BLUE CHIPS SEGMENT Stock Exchange), the gender parity as well as the age distribution of the insiders.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Board of Directors UBS Group AG",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Four%2Dfirm%2Fgovernance%2Fubs%2Dgroup%2Dag%2Fboard%2Dof%2Ddirectors.html&rut=823f77e4179d6791f138a0e933aa11d339fe16261225ab05baae95f55fecca86",
+          "snippet": "The Board of Directors (BoD) decides on the strategy of the Group, upon recommendation by the Group Chief Executive Officer (the Group CEO), and is responsible for the overall direction, supervision and control of the Group and its management. It is also responsible for supervising compliance with applicable laws, rules and regulations. The BoD exercises oversight over UBS Group AG and its ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Group restructures executive board",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.privatebankerinternational.com%2Fnews%2Fubs%2Drestructures%2Dboard%2F&rut=27af468379e4778cc0d8c9319d0670a80b977051e345e789a6c9fda8d1ae42e8",
+          "snippet": "UBS Group has revealed upcoming changes to its executive board set to take effect from the beginning of 2026, as well as the retirement of board of directors' vice chairman Lukas Gähwiler. Beatriz Martin steps into the role of group chief operating officer, expanding her current duties to include overseeing the completion of Credit Suisse's integration, Group Operations, and the Internal ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS promotes Beatriz Martin to Chief Operating Officer amid board ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Fsustainability%2Fboards%2Dpolicy%2Dregulation%2Fubs%2Dvice%2Dchair%2Dgaehwiler%2Dstep%2Ddown%2Dboard%2Ddirectors%2D2026%2D2025%2D10%2D24%2F&rut=64858037e162bcad4fdd56135d2fa9d08a3a35177d536516309f582a89218d8d",
+          "snippet": "Switzerland's UBS on Friday promoted Beatriz Martin to Chief Operating Officer as it announced management changes that included the nomination of UBS veteran Markus Ronner as vice chairman of the ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Significant shareholders | UBS Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Finvestor%2Drelations%2Finvestors%2Fshareholder%2Dinformation%2Fsignificant%2Dshareholder.html&rut=aeb5c90e6ab7763e9cb8c41eec71d1b934990ad3d8c5d3cd58285aea2ed6c00f",
+          "snippet": "According to the share register of UBS Group AG, the shareholders (acting in their own name or in their capacity as nominees for other investors or beneficial owners) listed in the table below were registered with 3% or more of the total share capital of UBS Group AG.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Group AG: Shareholders, Shareholding Structure - MarketScreener",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2FUBS%2DGROUP%2DAG%2D19156942%2Fcompany%2Dshareholders%2F&rut=e5b9c8f8061fd976311f487ac138d4bfb0f1ba97cbc0ac96441297d9d5d88034",
+          "snippet": "Find the distribution by types of shareholders of UBS Group AG listed on the Swiss Exchange stock exchange. Discover the geographical origin of the shareholders of UBS Group AG.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Who owns UBS Group AG? - Who Own Companies",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwhoowncompanies.com%2Fwho%2Downs%2Dubs%2Dgroup%2Dag%2F&rut=5f22a7848577f63c9d18ecf8f0dcf59d63e41cf0bd3ad99b6a3c17bc67322d36",
+          "snippet": "Discover UBS Group AG's ownership structure, key institutional investors, nominee holdings, and regulatory framework in this comprehensive guide.",
+          "source": "DuckDuckGo"
+        }
+      ]
+    },
+    "businessActivities": {
+      "query": "UBS business",
+      "results": [
+        {
+          "title": "Our Products & Services | UBS Global",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fglobal%2Fen%2Fwealthmanagement%2Ffinancial%2Dintermediaries%2Fproducts%2Dand%2Dservices.html&rut=e3e45565847e5db798fe6b979934c5bf7cf1059db9978caa33dd7c7a626ca92e",
+          "snippet": "We are committed to you and your clients and strive to provide complete solutions for your business.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS's Most Popular Products and Services in 2024, and Why They're Here ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fubsoffice.com%2Fubss%2Dmost%2Dpopular%2Dproducts%2Dand%2Dservices%2F&rut=4b530c0b81840b7f49d8a41b34a4c04ff1e4a857d29d7e73b20dafce3b10e0aa",
+          "snippet": "At UBS, everything we do starts with our customers. In 2024, your needs and feedback have shaped a lineup of products and services that deliver convenience, productivity, and sustainability. From empowering businesses with cutting-edge printing technology to transforming classrooms with interactive tools, these offerings have earned their place as customer favorites. Here's why they've ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Switzerland - my-swiss-company.com",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fmy%2Dswiss%2Dcompany.com%2Fen%2Fubs%2Dswitzerland%2F&rut=269dba0636ff7f8f3479bde7d0fe17044c20a02c2c7e00358e323822333ca662",
+          "snippet": "UBS offers specialized business accounts and financial packages designed to support the operational needs of companies. These include various banking products and services such as loans, credit facilities, and cash management services, which are essential for daily business operations and long-term strategic growth.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "PDF Annual Report 2024 - UBS",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.ubs.com%2Fcontent%2Fdam%2Fassets%2Fcc%2Finvestor%2Drelations%2Fannual%2Dreport%2F2024%2Fannual%2Dreport%2Dubs%2Dgroup%2D2024.pdf&rut=a7d3a58dd87aa10bfbe2d99faad16a9b19bb1f1e4e2c1752a46e7177de582aa6",
+          "snippet": "Annual Reports The UBS Group Annual Report 2024 and the UBS AG Annual Report 2024 include the consolidated financial statements of UBS Group AG and UBS AG, respectively, and together provide comprehensive information about our Group, including strategy, businesses, financial and operating performance, and other key information.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Group AG (UBS) Revenue 2015-2025 - Stock Analysis",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fstockanalysis.com%2Fstocks%2Fubs%2Frevenue%2F&rut=5a4692f586de0dd67306ac9839dba8c1b8aa75e7ad74e309145a3bef0aee3df8",
+          "snippet": "UBS Group AG had revenue of $11.95B in the quarter ending June 30, 2025, with 1.13% growth. This brings the company's revenue in the last twelve months to $47.01B, up 1.24% year-over-year. In the year 2024, UBS Group AG had annual revenue of $48.03B with 21.24% growth.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS: Revenue, Worth, Valuation & Competitors 2025",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fcompworth.com%2Fcompany%2Fubs&rut=ace51a04eb95deae124a2c0e3bb18dd84a269c6c96cd7032d2163ca1f5b18d3f",
+          "snippet": "UBS has an estimated revenue of $34.9B, and 112400+ employees. Alternatives of UBS are Deutsche Bank, Barclays and Goldman Sachs.",
+          "source": "DuckDuckGo"
+        }
+      ]
+    },
+    "adverseMedia": {
+      "query": "UBS adverse media",
+      "results": [
+        {
+          "title": "Tom Hayes sues UBS for $400M, alleges scapegoating in Libor scandal ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.foxbusiness.com%2Fmarkets%2Fex%2Dtrader%2Dfiles%2D400m%2Dlawsuit%2Dubs%2Dlibor%2Dmanipulation%2Dscandal&rut=b062c66d590bd6b82ce59ae69daf77525547bcc5f681cd3d5413e30ea6c355c9",
+          "snippet": "Tom Hayes launches legal action against UBS, seeking $400 million in damages and alleging the Swiss bank made him the fall guy in the Libor rate-rigging scandal.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS tax evasion controversies - Wikipedia",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUBS_tax_evasion_controversies&rut=f458c7dded128be12149814c5b31d88fec6e544fb877051fd96287932aa9b812",
+          "snippet": "The first major tax evasion controversy the bank was involved in occurred in 2007. Bradley Birkenfeld, an American banker stationed at UBS Switzerland AG, broke Swiss banking secrecy laws to disclose client information to the U.S. Department of Justice (DOJ) alleging suspected tax evasion.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "City trader sues UBS after rate-rigging conviction quashed - BBC",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fcz6ngvenxj6o&rut=8ea627c6108390b0b0051edfa2302b3522777486118c81ce79f0ce770452ddb6",
+          "snippet": "Mr Hayes was the first banker to be jailed over the scandal in 2015, condemned by prosecutors at the time as the \"ringmaster\" of an international fraud conspiracy.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Ex-trader files $400M lawsuit against UBS over Libor manipulation scandal",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.foxbusiness.com%2Fmarkets%2Fex%2Dtrader%2Dfiles%2D400m%2Dlawsuit%2Dubs%2Dlibor%2Dmanipulation%2Dscandal&rut=b062c66d590bd6b82ce59ae69daf77525547bcc5f681cd3d5413e30ea6c355c9",
+          "snippet": "Tom Hayes launches legal action against UBS, seeking $400 million in damages and alleging the Swiss bank made him the fall guy in the Libor rate-rigging scandal.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "Exonerated trader Tom Hayes sues UBS for $400 million over Libor ...",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Flegal%2Fgovernment%2Fexonerated%2Dtrader%2Dtom%2Dhayes%2Dsues%2Dubs%2D400%2Dmillion%2Dover%2Dlibor%2Daccusations%2D2025%2D10%2D27%2F&rut=e410fac7d42c63c8f2e4d958f639f6d88c9372cd4fb1d5e7308e756eea1153dc",
+          "snippet": "Tom Hayes, the former trader who was a face of the global Libor-rigging scandal before his conviction was overturned in July, sued his former employer UBS for more than $400 million, saying the ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "How UBS Is Resolving Credit Suisse's Legacy Legal Issues",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.nasdaq.com%2Farticles%2Fhow%2Dubs%2Dresolving%2Dcredit%2Dsuisses%2Dlegacy%2Dlegal%2Dissues&rut=f5bac47400d48172908afbb755ab8f200db7f414c7e7f3cbed17efc29045dad0",
+          "snippet": "The $4 billion legal provision set aside during the Credit Suisse acquisition indicates UBS's preparedness to handle legacy issues without significant financial strain.",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Employee Data Reportedly Exposed in Third Party Attack",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.infosecurity%2Dmagazine.com%2Fnews%2Fubs%2Demployee%2Ddata%2Dexposed%2Dthird%2F&rut=8cdeb9d1c96cc77f1ae849fd2a49335cbaccfe57d91d19b719159bd5c60c4227",
+          "snippet": "Global banking giant UBS has suffered a data breach following a cyber-attack on a third-party supplier. In a statement emailed to Infosecurity, a UBS spokesperson confirmed a breach had occurred, but it had not impacted customer data or operations. \"A cyber-attack at an external supplier has led ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS reports a data leak after a cyber attack on a provider",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnn.com%2F2025%2F06%2F18%2Fbusiness%2Fubs%2Ddata%2Dleak%2Dcyber%2Dattack%2Dintl&rut=01abf4629b972771b6638d42569719df85c7f97e3be0a09710ea9f7eae048314",
+          "snippet": "Swiss banks UBS and Pictet said Wednesday that they had suffered a data leak due to a cyber attack on a provider in Switzerland, which did not compromise client information, although a report said ...",
+          "source": "DuckDuckGo"
+        },
+        {
+          "title": "UBS Among Companies Hit by Data Leak After Cyberattack on ... - MSN",
+          "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.msn.com%2Fen%2Dus%2Fmoney%2Fcompanies%2Fubs%2Damong%2Dcompanies%2Dhit%2Dby%2Ddata%2Dleak%2Dafter%2Dcyberattack%2Don%2Dprocurement%2Dfirm%2Far%2DAA1GWOZD&rut=3e2d3df862def6e693c2487fe91fdd12ee54af065bbbbd2050d85fdaa76082c8",
+          "snippet": "UBS Group, Pictet and Implenia said they were among the companies affected by a cyberattack on procurement firm Chain IQ.",
+          "source": "DuckDuckGo"
+        }
+      ]
+    }
+  },
+  "researchMetadata": {
+    "researchDate": "2025-10-29T11:23:16.207909",
+    "researcher": "Automated Company Profile System",
+    "dataSource": "Web search and news aggregation",
+    "limitations": "Based on publicly available information. Official registries and specialized databases not accessed."
+  }
+}
